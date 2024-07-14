@@ -3,6 +3,8 @@
 ## Description
 This project is a Moringa School Code challenge project that requires the development of an interactive shopping List. Users can add items to the list, mark items as purchased, and clear the list.
 
+You can view the project here - [Interactive Shopping List](https://mulindad.github.io/interactive-shopping-list/)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Features](#features)
