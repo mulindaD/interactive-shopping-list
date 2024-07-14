@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#shopping-list {
+    list-style-type: none;
+    padding: 0;
+}
+#shopping-list li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#shopping-list li.purchased {
+    text-decoration: line-through;
+    background-color: #e0e0e0;
+}
+button {
+    cursor: pointer;
+}
